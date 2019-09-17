@@ -4,7 +4,7 @@ spring:
   cache:
     cache-names: ehcache
     ehcache:
-      config: ehcache.xml
+      config: classpath:/ehcache.xml
   devtools:
     restart:
       enabled: true
@@ -53,8 +53,8 @@ spring:
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
     username: root
-    password: root
-    url: jdbc:mysql://127.0.0.1:3306/fsblog?useUnicode:true&amp;characterEncoding:UTF-8
+    password: 123715
+    url: jdbc:mysql://120.79.32.96:3306/fsblog?useUnicode:true&amp;characterEncoding:UTF-8
     driverClassName: com.mysql.jdbc.Driver
     sql-script-encoding: UTF-8
     hikari:
