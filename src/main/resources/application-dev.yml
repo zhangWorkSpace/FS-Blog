@@ -70,7 +70,7 @@ spring:
         ddl-auto: none
 
 server:
-  port: 8083
+  port: 8080
   max-http-header-size: 8192
   compression:
       min-response-size: 512

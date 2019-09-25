@@ -61,7 +61,10 @@
         </AsyncRoot>
 
         <!-- 将业务dao接口所在包填写进去,并用控制台输出即可 -->
-        <logger name="me.zbl.fullstack.mapper" level="DEBUG" additivity="false">
+        <logger name="me.zbl.fullstack" level="DEBUG" additivity="false">
+            <appender-ref ref="console"/>
+        </logger>
+        <logger name="org.springframework" level="ERROR" additivity="false">
             <appender-ref ref="console"/>
         </logger>
     </Loggers>
