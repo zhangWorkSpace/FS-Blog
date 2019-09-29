@@ -1,5 +1,5 @@
 <!-- Navigation -->
-<nav class="navbar navbar-expand-xl navbar-dark bg-dark fixed-top">
+<nav class="navbar navbar-expand-xl navbar-light bg-light fixed-top">
     <div class="container-fluid">
     <#-- Logo 位置 -->
         <img class="mr-3" alt="Logo"
@@ -8,11 +8,11 @@
             FS-Blog
         </a>
     <#-- 响应式导航下拉按钮 -->
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+       <#--<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
+        <div class="collapse navbar-collapse" id="navbarResponsive"> -->
         <#-- s 左侧导航 -->
             <ul class="nav navbar-nav">
                 <li class="nav-item">

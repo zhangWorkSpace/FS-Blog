@@ -35,7 +35,7 @@
         <div class="carousel-inner" role="listbox">
             <!-- Slide One - Set the background image for this slide in the line below -->
             <div class="carousel-item active"
-                 style="background-image: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1515063491041&di=8767c9c3177b01c45db9cc3854b78e0f&imgtype=0&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F033edd5554c7e6d00000158fc7b2956.jpg')">
+                 style="background-image: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1570157286&di=a30f2d7c6d6e6e720d11ba136097d924&imgtype=jpg&er=1&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F038a8e656550ff16ac7251c94acf24c.jpg')">
                 <div class="carousel-caption d-none d-md-block">
                     <h3 class="txt_shadow">优秀的判断力来自经验，但经验来自错误的判断</h3>
                     <p class="txt_shadow">Good judgment comes from experience, but experience comes from bad judgment.</p>
@@ -51,7 +51,7 @@
             </div>
             <!-- Slide Three - Set the background image for this slide in the line below -->
             <div class="carousel-item"
-                 style="background-image: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1515063331413&di=de07b2eb50799360c9bf5c378da23bbf&imgtype=0&src=http%3A%2F%2Fpic.99wed.com%2Fattachment%2FMon_1107%2F98_736564_b419d830ab0564c.jpg')">
+                 style="background-image: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1570157350&di=0b81f7677d6a8c573de117e016804792&imgtype=jpg&er=1&src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F038f27d5810683ca84a0e282b678ade.jpg')">
                 <div class="carousel-caption d-none d-md-block">
                     <h3 class="txt_shadow">你们中大多数人都熟悉程序员的美德，有三种：那就是懒惰、急躁和傲慢</h3>
                     <p class="txt_shadow">Most of you are familiar with the programmer's virtues, and there are three: laziness,
